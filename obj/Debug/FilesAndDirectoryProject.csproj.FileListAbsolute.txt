@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\projects\c#\FilesAndDirectoryProject\bin\Debug\FilesAndDirectoryProject.exe.config
+C:\Users\User\Desktop\projects\c#\FilesAndDirectoryProject\bin\Debug\FilesAndDirectoryProject.exe
+C:\Users\User\Desktop\projects\c#\FilesAndDirectoryProject\bin\Debug\FilesAndDirectoryProject.pdb
+C:\Users\User\Desktop\projects\c#\FilesAndDirectoryProject\obj\Debug\FilesAndDirectoryProject.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\projects\c#\FilesAndDirectoryProject\obj\Debug\FilesAndDirectoryProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\projects\c#\FilesAndDirectoryProject\obj\Debug\FilesAndDirectoryProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\projects\c#\FilesAndDirectoryProject\obj\Debug\FilesAndDirectoryProject.exe
+C:\Users\User\Desktop\projects\c#\FilesAndDirectoryProject\obj\Debug\FilesAndDirectoryProject.pdb
